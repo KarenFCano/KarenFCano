@@ -1,6 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Woman in tech <br>🚀 Web Developer <br>🌱 In constant learning<br>Mother of dragons 👦🏻 Thiago and Crystal 🐶<br>👨‍👩‍👦 In my free time i like to spend time with my family
-
+👩🏻‍💻 Woman in tech <br>🚀 Web Developer <br>🌱 In constant learning<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-cano/) 
